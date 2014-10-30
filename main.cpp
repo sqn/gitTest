@@ -25,6 +25,7 @@ char * rtmp = "rtmp://202.91.251.12/olived3/2129";
 
 int main() {
 	std::cout << "test" << std::endl;
+	std::cout << "master first commit after branch commit" << std::endl;
 	/*std::cout << IVideoSourceInterfaceFnNameLen << std::endl;
 	for (int i=0; i<IVideoSourceInterfaceFnNameLen; ++i) {
 		std::cout << IVideoSourceInterfaceFnName[i] << std::endl;
